@@ -1,0 +1,12 @@
+.buton{
+    border-radius: 30px;
+    background: linear-gradient(to right, rgba(167, 68, 40),rgba(84, 40, 167));
+    color:#fff;
+    justify-self: flex-end;
+    float: right;
+   
+}
+.buton:hover{
+    box-shadow: 2px 3px rgba(0,0,0,0.5);
+
+}
